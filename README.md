@@ -1,6 +1,7 @@
 # final_project
 A final project for Galvanize. I am working to make predictions of startup success for a private angel investment company.
 
+The data is proprietary and neither it nor the analysis will be available publicly.
 
 The data come from a DBInsights (Heroku) database and was collected from multiple tables using SQL queries.
 
